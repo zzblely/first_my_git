@@ -9,6 +9,19 @@
 	</head>
 	<body>
 		<h3>로그인 페이지</h3>
+		<table>
+			<tr>
+				<td>ID</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>PW</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td colspan ="2"></td>
+			</tr>
+		</table>
 	</body>
 	<script></script>
 </html>
